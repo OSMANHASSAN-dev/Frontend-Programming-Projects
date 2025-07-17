@@ -20,7 +20,7 @@ These projects reflect both foundational programming knowledge and the ability t
 
 ---
 
-## 📁 Projects Included (Excludes Project05 – Cash Calculator)
+## 📁 Projects Included 
 
 | No. | Project Name                          | Description |
 |-----|---------------------------------------|-------------|
