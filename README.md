@@ -62,4 +62,5 @@ You don’t need any build tools or package managers. To explore any project:
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/OSMANHASSAN-dev/Frontend-Mini-Projects.git
+   git clone https://github.com/OSMANHASSAN-dev/Frontend-Programming-Projects
+
